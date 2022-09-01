@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">drcrreport3</string>
+    <string name="account_name">Account_Id</string>
+    <string name="parent_id">Parent_Id</string>
+    <string name="parent_name">Parent_Name</string>
+    <string name="debit">Debit</string>
+    <string name="credit">Credit</string>
+    <string name="account_id">Account_Id</string>
+</resources>

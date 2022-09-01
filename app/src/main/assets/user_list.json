@@ -1,0 +1,461 @@
+{
+  "status": "success",
+  "message": [
+    {
+      "account_id": "536",
+      "account_name": "Cash @ PVS",
+      "parent_id": "1",
+      "parent_name": "ASSET",
+      "debit": "108599.820",
+      "credit": "0"
+    },
+    {
+      "account_id": "552",
+      "account_name": "HDFC BANK CA 136",
+      "parent_id": "1",
+      "parent_name":"ASSet",
+      "debit": "73890.120",
+      "credit": "0"
+    },
+    {
+      "account_id": "538",
+      "account_name": "Saraswath Bank C.A/c 16",
+      "parent_id": "1",
+      "parent_name": "ASSET",
+      "debit": "211539.480",
+      "credit": "0"
+    },
+    {
+      "account_id": "620",
+      "account_name": "Air Conditioner",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "76115.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "624",
+      "account_name": "CC TV",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "43908.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "616",
+      "account_name": "Computer",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "87071.970",
+      "credit": "0"
+    },
+    {
+      "account_id": "617",
+      "account_name": "Electrical Fittings",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "55875.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "676",
+      "account_name": "FREEZER",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "27966.100",
+      "credit": "0"
+    },
+    {
+      "account_id": "623",
+      "account_name": "Furniture & Fixtures",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "373137.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "621",
+      "account_name": "Inverter Battery & UPS",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "126936.260",
+      "credit": "0"
+    },
+    {
+      "account_id": "622",
+      "account_name": "Machinery",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "70067.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "678",
+      "account_name": "Maruthi Wagon R KA19ML6927",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "654721.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "596",
+      "account_name": "Packing Machine",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "109083.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "619",
+      "account_name": "Printer",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "47876.600",
+      "credit": "0"
+    },
+    {
+      "account_id": "625",
+      "account_name": "TVS Scooter",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "40420.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "618",
+      "account_name": "Weighing Scale",
+      "parent_id": "615",
+      "parent_name": "Fixed Assets",
+      "debit": "7056.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "636",
+      "account_name": "CGST Receivable",
+      "parent_id": "635",
+      "parent_name": "GST RECEIVABLE",
+      "debit": "12149.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "637",
+      "account_name": "SGST Receivable",
+      "parent_id": "635",
+      "parent_name": "GST RECEIVABLE",
+      "debit": "10659.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "633",
+      "account_name": "NSC Deposit",
+      "parent_id": "632",
+      "parent_name": "Investment and Deposits",
+      "debit": "10000.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "634",
+      "account_name": "Rent Deposit",
+      "parent_id": "632",
+      "parent_name": "Investment and Deposits",
+      "debit": "500000.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "551",
+      "account_name": "PROFESSION TAX",
+      "parent_id": "2",
+      "parent_name": "LIABILITY",
+      "debit": "9711.800",
+      "credit": "0"
+    },
+    {
+      "account_id": "531",
+      "account_name": "Round Off",
+      "parent_id": "2",
+      "parent_name": "LIABILITY",
+      "debit": "0",
+      "credit": "7.750"
+    },
+    {
+      "account_id": "550",
+      "account_name": "TDS A/C",
+      "parent_id": "2",
+      "parent_name": "LIABILITY",
+      "debit": "0",
+      "credit": "2500.000"
+    },
+    {
+      "account_id": "549",
+      "account_name": "M MEENAKSHI PRABHU CAPITAL A/C",
+      "parent_id": "562",
+      "parent_name": "M Archana Prabhu",
+      "debit": "0",
+      "credit": "1377242.320"
+    },
+    {
+      "account_id": "548",
+      "account_name": "M MANJUNATH PRABHU CAPITAL A/C",
+      "parent_id": "561",
+      "parent_name": "M Manjunath Prabhu",
+      "debit": "0",
+      "credit": "2439260.690"
+    },
+    {
+      "account_id": "639",
+      "account_name": "M Prashanth Prabhu Capital A/c",
+      "parent_id": "638",
+      "parent_name": "M Prashanth Prabhu",
+      "debit": "0",
+      "credit": "271834.690"
+    },
+    {
+      "account_id": "627",
+      "account_name": "IGST Payable",
+      "parent_id": "626",
+      "parent_name": "Outstanding Charges",
+      "debit": "0",
+      "credit": "90.000"
+    },
+    {
+      "account_id": "630",
+      "account_name": "Profession Tax Outstanding",
+      "parent_id": "626",
+      "parent_name": "Outstanding Charges",
+      "debit": "0",
+      "credit": "400.000"
+    },
+    {
+      "account_id": "628",
+      "account_name": "SGST Payable",
+      "parent_id": "626",
+      "parent_name": "Outstanding Charges",
+      "debit": "0",
+      "credit": "428.000"
+    },
+    {
+      "account_id": "532",
+      "account_name": "Hamsika Enterprises",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "12685.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "112",
+      "account_name": "Hotel Parag",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "10448.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "133",
+      "account_name": "Kalbavi Cashews",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "26040.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "40",
+      "account_name": "M/s Komals Sweet Palace",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "204575.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "589",
+      "account_name": "PVS BEEDIES PVT.LTD",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "0",
+      "credit": "23600.000"
+    },
+    {
+      "account_id": "608",
+      "account_name": "SAHYADRI COLLEGE OF ENGINEERING AND MANAGEMENT",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "1980.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "97",
+      "account_name": "Sapna",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "44090.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "457",
+      "account_name": "Sri Rajarajeshwari Temple",
+      "parent_id": "5",
+      "parent_name": "PERSONAL",
+      "debit": "11340.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "18",
+      "account_name": "Input CGST 14%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "459.390",
+      "credit": "0"
+    },
+    {
+      "account_id": "30",
+      "account_name": "Input CGST 2.5%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "239395.130",
+      "credit": "0"
+    },
+    {
+      "account_id": "10",
+      "account_name": "Input CGST 6%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "222074.740",
+      "credit": "0"
+    },
+    {
+      "account_id": "14",
+      "account_name": "Input CGST 9%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "66139.410",
+      "credit": "0"
+    },
+    {
+      "account_id": "24",
+      "account_name": "Input IGST 18%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "44742.590",
+      "credit": "0"
+    },
+    {
+      "account_id": "20",
+      "account_name": "Input IGST 5%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "39385.000",
+      "credit": "0"
+    },
+    {
+      "account_id": "16",
+      "account_name": "Input SGST 14%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "459.390",
+      "credit": "0"
+    },
+    {
+      "account_id": "28",
+      "account_name": "Input SGST 2.5%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "239395.130",
+      "credit": "0"
+    },
+    {
+      "account_id": "32",
+      "account_name": "Input SGST 6%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "222074.740",
+      "credit": "0"
+    },
+    {
+      "account_id": "12",
+      "account_name": "Input SGST 9%",
+      "parent_id": "7",
+      "parent_name": "Taxes Inward",
+      "debit": "66139.410",
+      "credit": "0"
+    },
+    {
+      "account_id": "19",
+      "account_name": "Output CGST 14%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "96.340"
+    },
+    {
+      "account_id": "31",
+      "account_name": "Output CGST 2.5%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "279777.060"
+    },
+    {
+      "account_id": "11",
+      "account_name": "Output CGST 6%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "259870.260"
+    },
+    {
+      "account_id": "15",
+      "account_name": "Output CGST 9%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "12717.740"
+    },
+    {
+      "account_id": "23",
+      "account_name": "Output IGST 12%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "24736.060"
+    },
+    {
+      "account_id": "21",
+      "account_name": "Output IGST 5%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "26196.910"
+    },
+    {
+      "account_id": "17",
+      "account_name": "Output SGST 14%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "96.340"
+    },
+    {
+      "account_id": "29",
+      "account_name": "Output SGST 2.5%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "279777.060"
+    },
+    {
+      "account_id": "9",
+      "account_name": "Output SGST 6%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "259870.260"
+    },
+    {
+      "account_id": "13",
+      "account_name": "Output SGST 9%",
+      "parent_id": "8",
+      "parent_name": "Taxes Outward",
+      "debit": "0",
+      "credit": "12717.740"
+    }
+  ]
+}

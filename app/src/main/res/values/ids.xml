@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvaccount_name" type="id"></item>
+    <item name="tvparent_id" type="id"></item>
+    <item name="tvparent_name" type="id"></item>
+    <item name="tvdebit" type="id"></item>
+    <item name="tvcredit" type="id"></item>
+</resources>
